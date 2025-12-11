@@ -1,3 +1,4 @@
+
 # Pull Request
 
 ## ¿Qué es una Pull Request?
@@ -11,3 +12,9 @@ Sirve para proponer cambios y que otra persona los revise antes de añadirlos al
 
 ## Ventajas
 - Mejora la calidad
+
+# GitLab
+
+GitLab es una plataforma para alojar repositorios Git y trabajar con control de versiones.  
+Incluye funciones para gestionar código, issues, integración continua (CI/CD) y colaboración en equipo. 
+
